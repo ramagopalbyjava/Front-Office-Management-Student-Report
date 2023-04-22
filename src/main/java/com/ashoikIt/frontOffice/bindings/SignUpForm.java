@@ -1,5 +1,5 @@
 package com.ashoikIt.frontOffice.bindings;
 
-public class SignUpForm {
+public class SignupForm {
 
 }
